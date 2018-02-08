@@ -1,2 +1,2 @@
 # TheVerityBot
-Le bot qui dit la veri
+Le bot qui dit la vérité
